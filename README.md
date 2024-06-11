@@ -3,24 +3,6 @@
 This is my first Flutter project that demonstrates the usage of the Dio library for network requests and the BLoC pattern for state management.
 ## Screenshots
 
-table {
-  border-collapse: separate;
-  border-spacing: 10px;
-}
-
-td {
-  border: 1px solid #ddd;
-  border-radius: 24px;
-  padding: 5px;
-}
-
-img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 24px;
-}
-</style>
 <table>
   <tr>
     <td align="center">
