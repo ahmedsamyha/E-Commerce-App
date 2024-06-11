@@ -29,7 +29,9 @@ This is my first Flutter project that demonstrates the usage of the Dio library 
 <td width="1%"><img src=![15](https://github.com/ahmedsamyha/E-Commerce-App/assets/124884916/0d612371-176e-4018-99ee-382034fbe8a2)
 <td width="1%"><img src=![16](https://github.com/ahmedsamyha/E-Commerce-App/assets/124884916/2bf36253-8bdc-47df-b8e8-fe88d37f877b)
 
-
+  </tr>
+  </tbody>
+</table>
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
