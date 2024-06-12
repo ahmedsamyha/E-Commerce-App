@@ -1,8 +1,12 @@
 # snapshope
 
-This is my first Flutter project that demonstrates the usage of the Dio library for network requests and the BLoC pattern for state management.
-## Screenshots
+This is my first Flutter project that demonstrates the usage of the Dio library for network requests , the BLoC pattern for state management and the UI design with the help of tutorials from Coding With T youtube channel.
 
+## App Preview
+You can watch the project video by clicking on the following link
+https://drive.google.com/file/d/11Q26zOLlDVsvUi5mPr7DnUdvUFXG4_Yt/view?usp=drivesdk
+
+## Screenshots
 <table>
   <tr>
     <td align="center">
@@ -55,9 +59,3 @@ This is my first Flutter project that demonstrates the usage of the Dio library 
     <td align="center">
       <img src="https://github.com/ahmedsamyha/E-Commerce-AppI apologize, but it seems like the links you provided for the images are not accessible. The URLs you provided are pointing to a GitHub repository, but it's not possible to access the images directly from there. To display images in a GitHub readme file, the images need to be hosted on a publicly accessible server or an image hosting platform.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
